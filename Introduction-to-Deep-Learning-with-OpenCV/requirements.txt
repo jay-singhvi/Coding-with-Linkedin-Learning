@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+jupyter
+ipywidgets
+opencv-contrib-python
+matplotlib
