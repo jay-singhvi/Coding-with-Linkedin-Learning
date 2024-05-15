@@ -1,2 +1,2 @@
-# LinkedinLearning
-My Journey to Mastering Data Science concepts with Linkedin Learning 
+# Linkedin-Learning
+Embarking on a journey to master Data Science concepts through LinkedIn Learning.
